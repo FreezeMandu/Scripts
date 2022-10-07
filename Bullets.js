@@ -1,3 +1,4 @@
+//포탑 탄약
 nBullet = new BasicBulletType(4, 30);
 
 backSprite = Core.atlas.find("bullet-back");
