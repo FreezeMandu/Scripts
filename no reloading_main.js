@@ -9,3 +9,8 @@ Blocks.conveyor.speed = 0.06
 Blocks.conveyor.health = 60
 Blocks.copperWall.health = 2000
 Blocks.coreShard.itemCapacity = 20000
+Blocks.solarPanel.powerProduction = 2
+Blocks.steamGenerator.powerProduction = 8
+
+
+
