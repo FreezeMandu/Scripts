@@ -23,7 +23,7 @@ Blocks.overflowGate.health = 75
 Blocks.copperWall.health = 2000
 
 Blocks.coreShard.itemCapacity = 20000
-Blocks.coreShard.buildVisibility = "shown"
+Blocks.coreShard.buildVisibility = "campaignOnly"
 
 Blocks.solarPanel.powerProduction = 2
 Blocks.steamGenerator.powerProduction = 8
