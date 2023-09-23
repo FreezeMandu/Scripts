@@ -15,7 +15,7 @@ Blocks.overflowGate.health = 75
 Blocks.copperWall.health = 2000
 
 Blocks.coreShard.itemCapacity = 20000
-Blocks.coreShard.buildVisivilty = true
+Blocks.coreShard.buildVisibility = true
 Blocks.coreShard.alwaysUnlocked = true
 Blocks.coreFoundation.unitType = UnitTypes.alpha
 
