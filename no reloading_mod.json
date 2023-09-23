@@ -1,7 +1,7 @@
 {
   "displayName": "No Reloading",
   "name": "noreloading",
-  "version": 0.4,
+  "version": 0.5,
   "minGameVersion": 145,
   "author": "Mandu",
   "hidden": false
