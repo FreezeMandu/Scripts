@@ -11,6 +11,9 @@ Blocks.router.health = 75
 Blocks.overflowGate.health = 75
 Blocks.copperWall.health = 2000
 Blocks.coreShard.itemCapacity = 20000
+Blocks.coreShard.buildVisivilty = true
+Blocks.coreShard.alwaysUnlocked = true
+Blocks.coreFoundation.unitType = UnitTypes.alpha
 Blocks.solarPanel.powerProduction = 2
 Blocks.steamGenerator.powerProduction = 8
 
