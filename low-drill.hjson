@@ -1,0 +1,10 @@
+type: drill
+size: 2
+health: 199
+
+tier: 1
+drillTime: 20
+
+category: production
+
+alwaysUnlocked: true
