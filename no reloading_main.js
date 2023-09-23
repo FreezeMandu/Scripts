@@ -12,6 +12,9 @@ Blocks.duo.reload = 0.5
 Blocks.arc.reload = 9.0
 
 Blocks.mechanicalDrill.drillTime = 100
+Blocks.mechanicalDrill.mineTier = 2
+Blocks.pneumaticDrill.drillTime = 100
+Blocks.pneumaticDrill.mineTier = 4
 Blocks.conveyor.speed = 0.06
 Blocks.conveyor.health = 75
 Blocks.router.health = 75
