@@ -1,1 +1,9 @@
-.
+type: drill
+size: 2
+health: 199
+
+tier: 1
+drillSpeed: 20
+
+item: [copper/10, lead/15]
+alwaysUnlocked: true
