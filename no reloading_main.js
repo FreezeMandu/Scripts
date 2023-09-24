@@ -25,6 +25,7 @@ Blocks.overflowGate.health = 75
 Blocks.copperWall.health = 2000
 
 Blocks.coreShard.itemCapacity = 20000
+Blocks.coreFoundation.itemCapacity = 40000
 
 Blocks.solarPanel.powerProduction = 2
 Blocks.steamGenerator.powerProduction = 8
