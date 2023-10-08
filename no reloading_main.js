@@ -26,9 +26,10 @@ Blocks.router.health = 75
 Blocks.overflowGate.health = 75
 
 Blocks.copperWall.health = 2000
-Blocks.copperWallLarge.health = 5500
+Blocks.copperWallLarge.health = 6000
 Blocks.copperWallLarge.absorbLasers = true
-Blocks.copperWallLarge.lightningChance = 20
+Blocks.copperWallLarge.lightningChance = 0.3
+Blocks.copperWallLarge.lightningDamage = 40
 
 Blocks.coreShard.itemCapacity = 20000
 Blocks.coreFoundation.itemCapacity = 40000
