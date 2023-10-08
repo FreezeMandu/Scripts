@@ -10,6 +10,7 @@ UnitTypes.beta.health = 310
 
 Blocks.duo.reload = 0.5
 Blocks.arc.reload = 9.0
+Blocks.scatter.reload = 4.0
 
 Blocks.mechanicalDrill.drillTime = 100
 Blocks.mechanicalDrill.tier = 2
