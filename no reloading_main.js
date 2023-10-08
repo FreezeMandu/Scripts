@@ -26,7 +26,6 @@ Blocks.router.health = 75
 Blocks.overflowGate.health = 75
 
 Blocks.copperWall.health = 2000
-Blocks.copperWall.chanceDeflect = 20
 Blocks.copperWallLarge.health = 5500
 Blocks.copperWallLarge.absorbLasers = true
 Blocks.copperWallLarge.lightningChance = 20
